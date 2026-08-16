@@ -25,6 +25,9 @@ GET https://taghazout.io/weather-data/_feed.php?loc=<spot_key>
 No key, no auth, JSON. Please cache for a few minutes rather than polling in a loop —
 the underlying models only update every few hours anyway.
 
+📖 **Full API reference:** [taghazout.gitbook.io/taghazout-docs](https://taghazout.gitbook.io/taghazout-docs/introduction)
+· 📊 **Spot registry as a dataset:** [Hugging Face](https://huggingface.co/datasets/MyTaghazout/taghazout-surf-spots)
+
 ### Example
 
 ```bash
