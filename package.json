@@ -1,0 +1,14 @@
+{
+  "name": "taghazout-surf",
+  "version": "1.0.0",
+  "description": "Tiny zero-dependency client for the free Taghazout (Morocco) surf forecast feed — 20 named breaks, no API key.",
+  "type": "module",
+  "main": "taghazout-surf.js",
+  "exports": "./taghazout-surf.js",
+  "bin": { "taghazout-surf": "./taghazout-surf.js" },
+  "files": ["taghazout-surf.js", "README.md", "LICENSE"],
+  "keywords": ["surf", "forecast", "morocco", "taghazout", "agadir", "ocean", "swell", "weather", "api-client"],
+  "homepage": "https://taghazout.io",
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}

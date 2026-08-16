@@ -1,0 +1,21 @@
+spot_key,spot_name,area,forecast_page,feed_url
+taghazout,"Taghazout Bay",Taghazout,https://taghazout.io/weather/taghazout/,https://taghazout.io/weather-data/_feed.php?loc=taghazout
+anchor-point,"Anchor Point","North Taghazout",https://taghazout.io/weather/anchor-point/,https://taghazout.io/weather-data/_feed.php?loc=anchor-point
+hash-point,"Hash Point",Taghazout,https://taghazout.io/weather/hash-point/,https://taghazout.io/weather-data/_feed.php?loc=hash-point
+panorama,"Panorama Point","South Taghazout",https://taghazout.io/weather/panorama/,https://taghazout.io/weather-data/_feed.php?loc=panorama
+la-source,"La Source","Between Taghazout and Killer Point",https://taghazout.io/weather/la-source/,https://taghazout.io/weather-data/_feed.php?loc=la-source
+mysteries,Mysteries,"North of Taghazout",https://taghazout.io/weather/mysteries/,https://taghazout.io/weather-data/_feed.php?loc=mysteries
+killer-point,"Killer Point","North of Taghazout",https://taghazout.io/weather/killer-point/,https://taghazout.io/weather-data/_feed.php?loc=killer-point
+banana-point,"Banana Point",Aourir,https://taghazout.io/weather/banana-point/,https://taghazout.io/weather-data/_feed.php?loc=banana-point
+devils-rock,"Devil’s Rock",Tamraght,https://taghazout.io/weather/devils-rock/,https://taghazout.io/weather-data/_feed.php?loc=devils-rock
+cro-cro,Cro-Cro,"Tamraght coast",https://taghazout.io/weather/cro-cro/,https://taghazout.io/weather-data/_feed.php?loc=cro-cro
+km11,KM11,"Coast road south of Tamraght",https://taghazout.io/weather/km11/,https://taghazout.io/weather-data/_feed.php?loc=km11
+km12,KM12,"Coast road south of Tamraght",https://taghazout.io/weather/km12/,https://taghazout.io/weather-data/_feed.php?loc=km12
+boilers,Boilers,"North coast",https://taghazout.io/weather/boilers/,https://taghazout.io/weather-data/_feed.php?loc=boilers
+dracula,Dracula’s,"North coast",https://taghazout.io/weather/dracula/,https://taghazout.io/weather-data/_feed.php?loc=dracula
+tamri,Tamri,"North of Taghazout",https://taghazout.io/weather/tamri/,https://taghazout.io/weather-data/_feed.php?loc=tamri
+anza,Anza,Agadir,https://taghazout.io/weather/anza/,https://taghazout.io/weather-data/_feed.php?loc=anza
+tamraght,Tamraght,Tamraght,https://taghazout.io/weather/tamraght/,https://taghazout.io/weather-data/_feed.php?loc=tamraght
+agadir,"Agadir Beach",Agadir,https://taghazout.io/weather/agadir/,https://taghazout.io/weather-data/_feed.php?loc=agadir
+imsouane,"Imsouane Bay",Imsouane,https://taghazout.io/weather/imsouane/,https://taghazout.io/weather-data/_feed.php?loc=imsouane
+imsouane-cathedral,"Imsouane Cathedral",Imsouane,https://taghazout.io/weather/imsouane-cathedral/,https://taghazout.io/weather-data/_feed.php?loc=imsouane-cathedral
